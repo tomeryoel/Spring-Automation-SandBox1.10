@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
 	public static void main(String[] args) {
-		System.out.println("bo nivdok shuv");
-		System.out.println("sapir hamelka");
+		System.out.println("This is an empty Base project configure and set up for Automation with Spring");
+
 		SpringApplication.run(Application.class, args);
 	}
 
