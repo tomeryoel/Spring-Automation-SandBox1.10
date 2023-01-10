@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Application {
 
 	public static void main(String[] args) {
-		System.out.println("ma nisgar im ze kvar?!?!?!?!?!?");
+		System.out.println("haim sof sof ze avad???");
 		SpringApplication.run(Application.class, args);
 	}
 
